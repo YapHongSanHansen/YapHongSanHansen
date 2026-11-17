@@ -1,20 +1,11 @@
-# Hi, I'm Hansen
-
-I'm a Computer Science student at Taylor's University, specialising in Data Science. I like building fast, mostly at hackathons, and turning an idea into something people can actually click through.
-
-My recent work spans AI agents, computer vision, Solana security and DeFi.
-
-<table>
-  <tr>
-    <td align="center"><strong>6</strong><br>Hackathon Wins</td>
-    <td align="center"><strong>7</strong><br>Award Placements</td>
-    <td align="center"><strong>1</strong><br>Accelerator Programme</td>
-  </tr>
-</table>
-
-## Experience
-
-- **Dev3pack Accelerator Programme** *(with SONAR)*
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=YapHongSanHansen&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FYapHongSanHansen%2FYapHongSanHansen%2Fmain%2Fneofetch.json">
+      <img alt="Hansen's neofetch-style GitHub profile card" src="https://neofetch-profile.vercel.app/api?username=YapHongSanHansen&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FYapHongSanHansen%2FYapHongSanHansen%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
 ## Featured project
 
@@ -37,11 +28,3 @@ SONAR placed 3rd in Malaysia at Dev3pack and was selected for the Dev3pack Accel
 - [IIMS Hackathon](https://github.com/POTATO0826/IIMS-Hackathon): 1st place *(Finchpoint: AI poultry-farm monitoring)*
 - [ImagineHack 2026](https://github.com/YapHongSanHansen/ImagineHack2026): Top 8, Track 3 *(ADTAE: AI-driven team allocation engine)*
 - [Dev3pack Hackathon](https://github.com/Eriol-0406/Sonar-Dev3pack-V1): 3rd place in Malaysia; selected for the Dev3pack Accelerator Programme *(SONAR)*
-
-## Interests
-
-- AI agents and human-in-the-loop systems
-- Computer vision
-- Solana and on-chain security
-- DeFi
-- Data science
