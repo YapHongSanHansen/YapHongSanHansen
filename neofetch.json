@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "University", "value": "Taylor's University" },
+        { "key": "Degree", "value": "Computer Science (Data Science)" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Focus", "value": "AI Agents, Computer Vision, Solana, DeFi" }
+      ]
+    },
+    {
+      "title": "- Hackathons",
+      "fields": [
+        { "key": "IIMS Hackathon", "value": "1st Place" },
+        { "key": "Cloudflare Mini Hackathon", "value": "Winner" },
+        { "key": "ACE 2026 DGX Spark", "value": "1st Runner-Up" },
+        { "key": "MUBA 2026", "value": "2nd, Thetanuts Finance" },
+        { "key": "Dev3pack Malaysia", "value": "3rd + Accelerator" },
+        { "key": "DevLeague", "value": "Best Demo, Solana Track" },
+        { "key": "ImagineHack 2026", "value": "Top 8" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      "loc"
+    ]
+  }
+}
